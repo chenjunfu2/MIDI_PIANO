@@ -7,8 +7,8 @@
 文件生成在软件当前目录下</br>
 拖动生成的录制文件到软件上就会自动开始播放，结束自动退出</br>
 </br>
-  按键     音高</br>
-1234567   C2\~B2</br>
-QWERTYU   C3\~B3</br>
-ASDFGHJ   C4\~B4</br>
-ZXCVBNM   C5\~B5</br>
+  按键&nbsp&nbsp&nbsp音高</br>
+1234567&nbsp&nbsp&nbspC2\~B2</br>
+QWERTYU&nbsp&nbsp&nbspC3\~B3</br>
+ASDFGHJ&nbsp&nbsp&nbspC4\~B4</br>
+ZXCVBNM&nbsp&nbsp&nbspC5\~B5</br>
